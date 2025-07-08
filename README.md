@@ -11,9 +11,9 @@ A straightforward Python console app that lets you perform basic arithmetic oper
 
 ## How to Use
 
-1. Run the `calculator.py` script with Python 3:
-   ```bash
-   python calculator.py
+1. Run the `calculator.py` script with Python 3
+
+   
 Follow the on-screen prompts:
 
 Enter two numbers
