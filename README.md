@@ -24,26 +24,5 @@ See the result
 
 Type exit at any prompt to quit the app.
 
-Example
-sql
-Kopieren
-Bearbeiten
-🧮 Simple Calculator
-You can add, subtract, multiply, or divide two numbers.
-Type 'exit' anytime to quit.
-
-Enter the first number: 12
-Enter the second number: 5
-Choose an operation:
- +  Add
- -  Subtract
- *  Multiply
- /  Divide
-Your choice: /
-Result: 2.4
-License
+# License
 This project is open source and free to use!
-
-vbnet
-Kopieren
-Bearbeiten
