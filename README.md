@@ -11,8 +11,12 @@ A straightforward Python console app that lets you perform basic arithmetic oper
 
 ## How to Use
 
-1. Run the `calculator.py` script with Python 3
+1. Download or move the script to your Desktop (or any folder you like).  
+2. Double-click the `.py` file to run it.  
+3. Enjoy!
 
+**Note:** You **must** have Python installed!  
+Get it here: [Download Python Here](https://www.python.org/downloads/)
    
 Follow the on-screen prompts:
 
